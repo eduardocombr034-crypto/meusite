@@ -1,5 +1,3 @@
-# meusite
-Um site divertido e colorido 
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
